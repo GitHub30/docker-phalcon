@@ -1,4 +1,4 @@
-FROM php:7.2-alpine
+FROM php:7.2-fpm-alpine
 
 LABEL maintainer="MilesChou <github.com/MilesChou>, fizzka <github.com/fizzka>"
 
